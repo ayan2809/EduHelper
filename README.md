@@ -1,4 +1,4 @@
-<h1 align="center">Question Generation</h1>
+<h1 align="center">Edu Helper</h1>
 <p align="center">
 </p>
 
